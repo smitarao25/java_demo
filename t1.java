@@ -1,2 +1,2 @@
-Hello From Demo
-Hi from smita java
+System.out.println("Hello From Demo");
+System.out.println("Hi from smita java");
